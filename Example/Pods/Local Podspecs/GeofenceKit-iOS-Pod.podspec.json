@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of GeofenceKit-iOS-Pod.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/louieyuen/GeofenceKit-iOS-Pod",
+  "homepage": "https://github.com/MTS-LLC/MM-GeofenceKit-iOS-Pod",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "louieyuen": "lyuen@jibestream.com"
+    "mattWillis": "matt.willis@minuteman-llc.com"
   },
   "source": {
-    "git": "https://github.com/louieyuen/GeofenceKit-iOS-Pod.git",
+    "git": "https://github.com/MTS-LLC/MM-GeofenceKit-iOS-Pod.git",
     "tag": "0.1.0"
   },
   "platforms": {

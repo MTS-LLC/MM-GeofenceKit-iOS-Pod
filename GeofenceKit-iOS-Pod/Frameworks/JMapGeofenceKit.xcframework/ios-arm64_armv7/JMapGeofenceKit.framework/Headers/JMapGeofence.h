@@ -3,7 +3,7 @@
 //  JMapGeofenceKit
 //
 //  Created by Louie Yuen on 2018-02-27.
-//  Copyright © 2018 Jibestream. All rights reserved.
+//  Copyright © 2024 Minuteman Technology Services, LLC. All rights reserved.
 //
 
 #import <JMapCoreKit/JMapCoreKit.h>

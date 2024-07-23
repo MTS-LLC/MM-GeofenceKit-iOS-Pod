@@ -31,23 +31,23 @@
 		32CE6862CFAB51B87DFC4171744BE2FA /* Pods-GeofenceKit-iOS-Pod_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GeofenceKit-iOS-Pod_Tests-dummy.m"; sourceTree = "<group>"; };
 		447D1462D3EAE83F55D91F9574E199E0 /* GeofenceKit-iOS-Pod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GeofenceKit-iOS-Pod-prefix.pch"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		60AB59169E451AD4D8979D041BC1DEB2 /* GeofenceKit-iOS-Pod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = "GeofenceKit-iOS-Pod.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		62E7622E1DAB3691F9BA1E8BFB994E56 /* Pods_GeofenceKit_iOS_Pod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GeofenceKit_iOS_Pod_Tests.framework; path = "Pods-GeofenceKit-iOS-Pod_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		60AB59169E451AD4D8979D041BC1DEB2 /* GeofenceKit-iOS-Pod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = "GeofenceKit-iOS-Pod.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		62E7622E1DAB3691F9BA1E8BFB994E56 /* Pods_GeofenceKit_iOS_Pod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GeofenceKit_iOS_Pod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		65117839921C62BC6C5C8877CE245BDB /* Pods-GeofenceKit-iOS-Pod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GeofenceKit-iOS-Pod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		700CA35D0AB382E746B7BF116A00724E /* GeofenceKit_iOS_Pod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = GeofenceKit_iOS_Pod.framework; path = "GeofenceKit-iOS-Pod.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		700CA35D0AB382E746B7BF116A00724E /* GeofenceKit_iOS_Pod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GeofenceKit_iOS_Pod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DB6D29E2117FEE6D17C447D8CD00816 /* Pods-GeofenceKit-iOS-Pod_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GeofenceKit-iOS-Pod_Tests.modulemap"; sourceTree = "<group>"; };
 		818C00366181A265462C58C902CA4FF7 /* GeofenceKit-iOS-Pod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "GeofenceKit-iOS-Pod.xcconfig"; sourceTree = "<group>"; };
 		8CD3E7CB6B9F26DECBF01EFA87BBF6ED /* Pods-GeofenceKit-iOS-Pod_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GeofenceKit-iOS-Pod_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		95E6EBB005C7F0E8A661F0DAB22E3848 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A4C16CAF13379291962FA754D1455D3 /* Pods-GeofenceKit-iOS-Pod_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GeofenceKit-iOS-Pod_Tests-umbrella.h"; sourceTree = "<group>"; };
 		9D5D432F82FDD3A667FF30B560CF9455 /* GeofenceKit-iOS-Pod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "GeofenceKit-iOS-Pod.modulemap"; sourceTree = "<group>"; };
 		A5A05769DF7CB83CB5BB60DAD30542EF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C1E02AD76FBA3449352D9941F2482010 /* Pods-GeofenceKit-iOS-Pod_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GeofenceKit-iOS-Pod_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		CF1401B86439A6BD6DD17916098C1370 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		CF1401B86439A6BD6DD17916098C1370 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D3E943ABD52818EF00869B22823DC569 /* GeofenceKit-iOS-Pod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GeofenceKit-iOS-Pod-dummy.m"; sourceTree = "<group>"; };
 		DE7F93D378BBDB48476C1FAA5085B3B3 /* Pods-GeofenceKit-iOS-Pod_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GeofenceKit-iOS-Pod_Tests-resources.sh"; sourceTree = "<group>"; };
-		E8042B780616D19EF0F6BAB2056398A2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		E8042B780616D19EF0F6BAB2056398A2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F3C876244E809B9F1697B5B5FF1B37E0 /* Pods-GeofenceKit-iOS-Pod_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GeofenceKit-iOS-Pod_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		F3D8DF5D4F2ADA592A1D98904636983F /* GeofenceKit-iOS-Pod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GeofenceKit-iOS-Pod-umbrella.h"; sourceTree = "<group>"; };
 		FD5DC5E2E3F87487D2AB958A31847E84 /* Pods-GeofenceKit-iOS-Pod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GeofenceKit-iOS-Pod_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -249,6 +249,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -496,7 +497,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/GeofenceKit-iOS-Pod/GeofenceKit-iOS-Pod-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/GeofenceKit-iOS-Pod/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/GeofenceKit-iOS-Pod/GeofenceKit-iOS-Pod.modulemap";
 				PRODUCT_MODULE_NAME = GeofenceKit_iOS_Pod;
@@ -526,7 +527,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/GeofenceKit-iOS-Pod/GeofenceKit-iOS-Pod-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/GeofenceKit-iOS-Pod/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/GeofenceKit-iOS-Pod/GeofenceKit-iOS-Pod.modulemap";
 				PRODUCT_MODULE_NAME = GeofenceKit_iOS_Pod;

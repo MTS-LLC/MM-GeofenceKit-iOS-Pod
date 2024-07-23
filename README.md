@@ -23,7 +23,3 @@ To get the latest version of the pod run:
 ```ruby
 pod update
 ```
-
-## Author
-
-Louie, lyuen@jibestream.com

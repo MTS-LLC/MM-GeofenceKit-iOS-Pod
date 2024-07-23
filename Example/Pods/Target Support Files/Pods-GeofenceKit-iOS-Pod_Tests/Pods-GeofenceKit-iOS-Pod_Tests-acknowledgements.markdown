@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## GeofenceKit-iOS-Pod
 
-Copyright (c) 2018 louieyuen <lyuen@jibestream.com>
+Copyright (c) 2018 Minuteman Technology Service, LLC <minutemaps@minuteman-llc.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
